@@ -56,7 +56,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Computer-Science Undergraduate",
+    title: "CS-MATHS Undergraduate",
     icon: mobile,
   },
   {
